@@ -14,10 +14,6 @@
     "browser",
     "web"
   ],
-  "files": [
-    "update.npm.full.js",
-    "update.npm.js"
-  ],
   "author": "Thomas Hümmer",
   "license": "MIT",
   "bugs": {
