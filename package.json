@@ -17,7 +17,7 @@
   "files": [
     "update.npm.full.js",
     "update.npm.js",
-    "./scripts/update.show.js"
+    "scripts/update.show.js"
   ],
   "author": "Thomas Hümmer",
   "license": "MIT",
